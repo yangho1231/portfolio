@@ -1,6 +1,6 @@
 {
-  "name": "agency",
-  "title": "Agency",
+  "name": "porfolio",
+  "title": "Portfolio",
   "version": "3.3.7+1",
   "homepage": "http://startbootstrap.com/template-overviews/agency",
   "author": "Start Bootstrap",
@@ -24,5 +24,9 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/BlackrockDigital/startbootstrap-agency.git"
+  },
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0"
   }
 }
