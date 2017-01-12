@@ -30,6 +30,10 @@ a.active {
 a {
   color: #00BFFF;
 }
+.col-md-3 p {
+  color: white;
+  font-size: 20px;
+}
 a:hover,
 a:focus,
 a:active,
