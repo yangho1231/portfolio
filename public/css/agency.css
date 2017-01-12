@@ -587,6 +587,9 @@ section#contact {
 section#contact .section-heading {
   color: white;
 }
+.col-md-3 a{
+  color: #222222;
+}
 section#contact .form-group {
   margin-bottom: 25px;
 }
